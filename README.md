@@ -9,7 +9,7 @@ I'm excited to bring my technical skills and dedication to your organization. If
 
 ### Languages I work with (LTR: Most Used to Least Used)
 
-![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,rust,python)
+![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)
 
 
 ### JS Frameworks
@@ -18,7 +18,7 @@ I'm excited to bring my technical skills and dedication to your organization. If
 
 ### CSS Frameworks
 
-[<img src="https://raw.githubusercontent.com/unocss/unocss/main/playground/public/icon-gray.svg" width="46px" />][unocss] [<img src="https://skillicons.dev/icons?i=tailwind" />][tailwind] [<img src="https://skillicons.dev/icons?i=scss" />][tailwind]
+[<img src="https://raw.githubusercontent.com/unocss/unocss/main/playground/public/icon-gray.svg" width="46px" />][unocss] [<img src="https://skillicons.dev/icons?i=tailwind" />][tailwind] [<img src="https://skillicons.dev/icons?i=scss" />][scss]
 
 ### Backend Tools
 
