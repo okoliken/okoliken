@@ -1,6 +1,10 @@
 ## Hey there, Jeff Here!
 
-I'm a Software Engineer and a [builder][isfullstackreal] focused on creating user-friendly experiences  for the web. Feel free to hit me up on discord [@hypersonic.dev#6008](https://discord.com/users/521690392983371776)
+Hello! I'm a detail-oriented software developer specializing in frontend development. With over 2 years of experience, I'm skilled in React, Vue, Svelte, and other frontend technologies. I have a particular passion for creating beautiful and user-friendly websites and applications.
+
+I've had the opportunity to work on Fintech projects, where I've gained valuable expertise in delivering precise and secure solutions with seamless user experiences. I firmly believe that a well-crafted user interface can greatly impact the success of a software product.
+
+I'm excited to bring my technical skills and dedication to your organization. If you're seeking a frontend developer who can create exceptional user experiences while paying attention to detail, I'm the ideal candidate. Let's collaborate and bring your projects to life!
 
 
 ### Languages I work with (LTR: Most Used to Least Used)
@@ -18,22 +22,13 @@ I'm a Software Engineer and a [builder][isfullstackreal] focused on creating use
 
 ### Backend Tools
 
-[<img src="https://api.iconify.design/logos:payload.svg?height=46" style="opacity: 0.8" />][payload] [<img src="https://pocketbase.io/images/logo.svg" />][pocketbase] [<img src="https://skillicons.dev/icons?i=prisma" />][prisma] [<img src="https://skillicons.dev/icons?i=supabase" />][supabase]
-
-### Desktop Frameworks
-
-[<img src="https://skillicons.dev/icons?i=tauri" />][tauri]
-
-### Mobile Frameworks
-
-[<img src="https://api.iconify.design/logos:capacitorjs-icon.svg?height=46" />][capacitorjs]
+[<img src="https://skillicons.dev/icons?i=supabase" />][supabase]
 
 
 
-[isfullstackreal]: https://www.youtube.com/watch?v=rAjd8z-Fx5A&ab_channel=Theo-ping%E2%80%A4gg
+
+
 [sveltekit]: https://kit.svelte.dev
-[astro]: https://astro.build
-[solid]: https://solidjs.com
 [vue]: https://vuejs.org
 [nuxt]: https://nuxt.com
 [react]: https://react.dev
@@ -41,9 +36,6 @@ I'm a Software Engineer and a [builder][isfullstackreal] focused on creating use
 [unocss]: https://github.com/unocss/unocss
 [tailwind]: https://tailwindcss.com
 [scss]: https://sass-lang.com
-[pocketbase]: https://pocketbase.io
-[prisma]: https://prisma.io
 [supabase]: https://supabase.com
-[tauri]: https://tauri.dev
 [capacitorjs]: https://capacitorjs.com
 [payload]: https://payloadcms.com
