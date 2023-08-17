@@ -7,7 +7,7 @@ I've had the opportunity to work on Fintech projects, where I've gained valuable
 I'm excited to bring my technical skills and dedication to your organization. If you're seeking a frontend developer who can create exceptional user experiences while paying attention to detail, I'm the ideal candidate. Let's collaborate and bring your projects to life!
 
 
-### Languages I work with (LTR: Most Used to Least Used)
+### Languages I work with 
 
 ![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)
 
