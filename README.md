@@ -28,14 +28,11 @@ I'm excited to bring my technical skills and dedication to your organization. If
 
 
 
-[sveltekit]: https://kit.svelte.dev
+
 [vue]: https://vuejs.org
 [nuxt]: https://nuxt.com
-[react]: https://react.dev
-[nextjs]: https://nextjs.org
 [unocss]: https://github.com/unocss/unocss
 [tailwind]: https://tailwindcss.com
 [scss]: https://sass-lang.com
 [supabase]: https://supabase.com
-[capacitorjs]: https://capacitorjs.com
-[payload]: https://payloadcms.com
+
