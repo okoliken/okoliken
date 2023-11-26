@@ -14,15 +14,15 @@ I'm excited to bring my technical skills and dedication to your organization. If
 
 ### JS Frameworks
 
-[<img src="https://api.iconify.design/logos:svelte-kit.svg?height=46" />][sveltekit][<img src="https://api.iconify.design/vscode-icons:file-type-astro.svg?height=46" />][astro] [<img src="https://skillicons.dev/icons?i=solidjs" />][solid] [<img src="https://skillicons.dev/icons?i=nuxtjs" />][nuxt] [<img src="https://skillicons.dev/icons?i=vue" />][vue][<img src="https://skillicons.dev/icons?i=react" />][react]
+[<img src="https://api.iconify.design/logos:svelte-kit.svg?height=46" />][sveltekit][<img src="https://api.iconify.design/vscode-icons:file-type-astro.svg?height=46" />][astro][<img src="https://skillicons.dev/icons?i=nuxtjs" />][nuxt][<img src="https://skillicons.dev/icons?i=vue" />][vue][<img src="https://skillicons.dev/icons?i=react" />][react]
 ### CSS Frameworks
 
-[<img src="https://raw.githubusercontent.com/unocss/unocss/main/playground/public/icon-gray.svg" width="46px" />][unocss] [<img src="https://skillicons.dev/icons?i=tailwind" />][tailwind] [<img src="https://skillicons.dev/icons?i=scss" />][scss]
+[<img src="https://raw.githubusercontent.com/unocss/unocss/main/playground/public/icon-gray.svg" width="46px" />][unocss] [<img src="https://skillicons.dev/icons?i=tailwind" />][tailwind][<img src="https://skillicons.dev/icons?i=scss" />][scss]
 
 ### Backend Tools
 
-[<img src="https://skillicons.dev/icons?i=supabase" />][supabase]
-[<img src="https://skillicons.dev/icons?i=appwrite" />][appwrite]
+[<img src="https://skillicons.dev/icons?i=supabase" />][supabase][<img src="https://skillicons.dev/icons?i=appwrite" />][appwrite]
+
 
 
 
@@ -30,12 +30,9 @@ I'm excited to bring my technical skills and dedication to your organization. If
 
 [sveltekit]: https://kit.svelte.dev
 [astro]: https://astro.build
-[solid]: https://solidjs.com
 [vue]: https://vuejs.org
 [nuxt]: https://nuxt.com
 [react]: https://react.dev
-[vue]: https://vuejs.org
-[nuxt]: https://nuxt.com
 [unocss]: https://github.com/unocss/unocss
 [tailwind]: https://tailwindcss.com
 [scss]: https://sass-lang.com
