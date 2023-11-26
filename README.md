@@ -27,7 +27,12 @@ I'm excited to bring my technical skills and dedication to your organization. If
 
 
 
-
+[sveltekit]: https://kit.svelte.dev
+[astro]: https://astro.build
+[solid]: https://solidjs.com
+[vue]: https://vuejs.org
+[nuxt]: https://nuxt.com
+[react]: https://react.dev
 [vue]: https://vuejs.org
 [nuxt]: https://nuxt.com
 [unocss]: https://github.com/unocss/unocss
